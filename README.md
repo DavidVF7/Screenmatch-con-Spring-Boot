@@ -4,6 +4,10 @@
 
 Proyecto desarrollado durante el segundo curso de la formación Avanzando con Java de Alura
 
+## 📝 Descripción
+
+Este proyecto Java utiliza Spring Boot, Hibernate y JPA para gestionar datos de series y episodios. La aplicación se conecta a la API OMDB para obtener información sobre series en línea. Además, se implementan consultas JPQL para realizar búsquedas avanzadas en la base de datos. Todo el proyecto se gestiona con Maven, permitiendo una fácil gestión de dependencias y compilación. Con un menú interactivo en la consola, los usuarios pueden buscar series, obtener detalles de episodios por serie, filtrar series por título y género, y encontrar los mejores episodios y series según diferentes criterios.
+
 ## 🔨 Objetivos del proyecto
 
 * Avanzar en el proyecto Screenmatch, iniciado en el primer curso de la formación, creando un menú con varias opciones;
