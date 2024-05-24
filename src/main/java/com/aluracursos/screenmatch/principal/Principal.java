@@ -167,7 +167,7 @@ public class Principal {
         System.out.println("¿Filtrar series con cuántas temporadas?");
         var totalTemporadas = teclado.nextInt();
         teclado.nextLine();
-        System.out.println("¿Con evaluación a partir de cuál vaolr?");
+        System.out.println("¿Con evaluación a partir de cuál valor?");
         var evaluacion = teclado.nextDouble();
         teclado.nextLine();
         List<Serie> filtroSeries = repositorio.seriePorTemporadaYEvalucion(totalTemporadas, evaluacion);
