@@ -13,7 +13,7 @@ public class Principal {
     private Scanner teclado = new Scanner(System.in);
     private ConsumoAPI consumoApi = new ConsumoAPI();
     private final String URL_BASE = "https://www.omdbapi.com/?t=";
-    private final String API_KEY = System.getenv("OPENAI_APIKEY");
+    private final String API_KEY = System.getenv("OMDB_APIKEY");
     private ConvierteDatos conversor = new ConvierteDatos();
 
     private SerieRepository repositorio;
