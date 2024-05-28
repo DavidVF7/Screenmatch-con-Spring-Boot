@@ -1,6 +1,6 @@
 ![Programação-Java_ Persistencia de datos y consultas con Spring Data JPA](https://github.com/genesysR-dev/2066-java-persitencia-de-datos-y-consultas-con-Spring-JPA/assets/91544872/e0e3a9f8-afc7-4e7b-be83-469351ef2d70)
 
-# Screenmatch-con-Spring-Boot
+# Screenmatch v2 - Spring Boot
 
 Proyecto desarrollado durante el segundo curso de la formación Avanzando con Java de Alura
 
@@ -19,9 +19,10 @@ Este proyecto Java utiliza Spring Boot, Hibernate y JPA para gestionar datos de 
 * Profundizar en la interfaz JPA Repository.
 
 ## 📷 Capturas de pantalla
-![Imagen de WhatsApp 2024-05-21 a las 01 16 32_a0675321](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/e4663b68-ad48-43ef-8d1b-610d54093ee5)
-![Imagen de WhatsApp 2024-05-21 a las 01 16 32_feb97af7](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/374a8d6b-1e67-4a40-a24e-fa8250fe2ee3)
-![Imagen de WhatsApp 2024-05-21 a las 01 16 32_0dc3a254](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/f11ef045-e4fd-4f75-8a97-a84927b11829)
-![Imagen de WhatsApp 2024-05-21 a las 01 16 32_d3f5c7d2](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/98efbbda-f1b9-48b7-98d5-52d4dc94a254)
-![Imagen de WhatsApp 2024-05-21 a las 01 16 52_91bb4093](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/38e3d018-fa47-4632-9816-017ba651ac61)
-![Imagen de WhatsApp 2024-05-21 a las 01 16 53_943a8716](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/53c09c74-4c4c-4bb5-8ff9-e7a4db7f6ee6)
+
+![Captura app consola API 1](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/79c9a006-72fd-4873-9f6c-40bf3d183cc5)
+![Captura app consola API 2](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/0c5be0f0-7ebc-4256-bdb9-9903b730500f)
+![Captura app consola API 3](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/d27d1e85-b25d-4cfa-a0b4-6074a4a4cf5a)
+![Captura app consola API 4](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/5fc90165-380e-48fa-97ca-f70e859606b5)
+![Captura app consola API 5](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/f6a43c8b-af04-4a0a-bb77-09992105e7d6)
+![Captura app consola API 6](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/b0e2fb49-fff1-4e04-a6cd-ef2f5db48693)
