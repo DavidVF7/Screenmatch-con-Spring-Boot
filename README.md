@@ -18,6 +18,10 @@ Este proyecto Java utiliza Spring Boot, Hibernate y JPA para gestionar datos de 
 * Trabajar con varios tipos de consultas a la base de datos;
 * Profundizar en la interfaz JPA Repository.
 
+## 👨‍💻 Desarrollado por
+
+David Velasco Fierros
+
 ## 📷 Capturas de pantalla
 
 ![Captura app consola API 1](https://github.com/DavidVF7/Screenmatch-con-Spring-Boot/assets/103916971/79c9a006-72fd-4873-9f6c-40bf3d183cc5)
