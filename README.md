@@ -1,6 +1,6 @@
 ![Programação-Java_ Persistencia de datos y consultas con Spring Data JPA](https://github.com/genesysR-dev/2066-java-persitencia-de-datos-y-consultas-con-Spring-JPA/assets/91544872/e0e3a9f8-afc7-4e7b-be83-469351ef2d70)
 
-# Screenmatch v2 - Spring Boot
+# Screenmatch - Spring Boot
 
 Proyecto desarrollado durante el segundo curso de la formación Avanzando con Java de Alura
 
